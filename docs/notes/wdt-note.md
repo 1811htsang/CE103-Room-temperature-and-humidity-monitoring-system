@@ -131,8 +131,6 @@ Ngoài ra, kiểm tra trong thư viện HAL của ESP-IDF cũng hoàn toàn bỏ
 Kiểm chứng thông tin trong [tech-dts](../references/esp32-technical-reference-manual-ver-5_2.pdf) trang 703 và [hal-driver](C:\Users\shanghuang\esp\v5.5\esp-idf\components\hal\wdt_hal_iram.c).
 
 
-
-
 # Bổ sung
 Đối với thiết kế phần cứng, ESP32 chỉ tồn tại 2 WDT là MWDT và RWDT. 
 Tuy nhiên, với API của ESP32 sẽ xây dựng bổ sung 3 WDT như sau:

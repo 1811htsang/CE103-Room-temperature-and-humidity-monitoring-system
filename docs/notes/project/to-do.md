@@ -8,9 +8,9 @@ Lộ trình triển khai chi tiết, đi từ
 # Giai đoạn Cốt lõi
 - [x] Thiết kế khung dự án (Project Structure)
 - [x] Bổ sung các tài liệu căn bản của dự án
-- [ ] Mục a
-- [ ] Mục b
-- [ ] Mục c
+- [x] Xác định các ngoại vi sử dụng trong đồ án
+- [ ] Phân chia nội dung công việc
+- [ ] Xây dựng driver cơ bản cho từng ngoại vi
 
 # Giai đoạn Cấu trúc hóa
 - [ ] Mục a
